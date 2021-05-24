@@ -1,0 +1,19 @@
+body{
+   background-image: url(../imagenes/fondoaxul.jpg) ; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#encabexado{
+    width: 1000px;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+#Titulo{
+    color: firebrick;
+    font-size: 25px;
+}
+#parrafoUno{
+    width: 1000px;
+    color: rgb(255, 255, 255);
+}
